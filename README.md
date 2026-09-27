@@ -1,6 +1,6 @@
 # Nocturne Studio
 
-A full-stack e-commerce site built for a CodeAlpha Web Development internship —
+A full-stack e-commerce site built for a CodeAlpha Web Development internship -
 vanilla HTML/CSS/JS on the frontend, Express + Prisma + MySQL on the backend.
 
 Brand concept: objects designed for the hours after work ends — lighting,
